@@ -1,6 +1,7 @@
 package Stack;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Stack;
 
 /**
  * problem statement https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
@@ -13,8 +14,11 @@ import java.util.*;
  * In the array, the next larger element
  * to 1 is 3 , 3 is 4 , 2 is 4 and for 4 ?
  * since it doesn't exist, it is -1.
+ *
+ *
+ * for solution explantion https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&ab_channel=AdityaVerma
  */
-public class NextGreaterElement {
+public class NextGreaterElementToLeft {
 
 
     public static void main(String[] args) {
@@ -24,8 +28,6 @@ public class NextGreaterElement {
     }
 
     static long[] nearestGreaterElement(long[] array, int n) {
-        // Creating an object of List interface
-        // implemented by the ArrayList class
         long[] result = new long[n];
         // Default initialization of Stack
         Stack<Long> stack = new Stack<>();
@@ -36,7 +38,7 @@ public class NextGreaterElement {
             } else if (array[i] < stack.peek()) {
                 result[i]=stack.peek();
             } else {
-                while (!stack.isEmpty() && stack.peek() < array[i]) {
+                while (!stack.isEmpty() && stack.peek() <= array[i]) {
                     stack.pop();
                 }
                 if (stack.isEmpty()) {

@@ -12,12 +12,13 @@ fun main(args: Array<String>) {
     println(deleteRepeated(list1, list2))
 }
 
-
 fun deleteRepeated(
     list1: List<String>,
     list2: List<Element>
 ): List<Element> {
-    return list2.filter { isTheSameID(it, list1) }
+    return list2.filter {
+        isTheSameID(it, list1)
+    }
 }
 
 private fun isTheSameID(element: Element, list1: List<String>): Boolean {

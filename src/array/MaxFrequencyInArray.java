@@ -1,9 +1,15 @@
 package array;
 
+import java.util.Arrays;
+
+/**
+ * 169 Majority element
+ * https://leetcode.com/problems/majority-element/
+ */
 public class MaxFrequencyInArray {
 
     public static void main(String[] args) {
-        int[] array = {1, 2, 2, 3, 3, 4, 4, 4, 5, 5, 6, 6, 6, 6, 6, 7, 9, 9, 9, 10};
+        int[] array = {2, 2, 1, 1, 1, 2, 2};
         int maxFrequency = maxFrequency(array);
         System.out.println(maxFrequency);
     }
@@ -15,6 +21,7 @@ public class MaxFrequencyInArray {
      * @return
      */
     public static int maxFrequency(int[] arr) {
+        Arrays.sort(arr);
         int counter = 0;
         int maxCounter = 0;
         int maxFrequency = arr[0];

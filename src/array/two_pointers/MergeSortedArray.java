@@ -1,17 +1,18 @@
 package array.two_pointers;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * https://leetcode.com/problems/merge-sorted-array/
  */
 public class MergeSortedArray {
-
 
     public static void main(String[] args) {
         int[] nums1 = {2, 0};
         int m = 1;
         int[] nums2 = {1};
         int n = 1;
-
         merge(nums1, m, nums2, n);
     }
 

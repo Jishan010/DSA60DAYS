@@ -38,7 +38,7 @@ public class ReverseIfWovels {
                 j++;
             }
         }
-        return Arrays.toString(items);
+        return String.copyValueOf(items);
     }
 
 

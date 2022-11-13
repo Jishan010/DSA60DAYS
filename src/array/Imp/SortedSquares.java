@@ -13,6 +13,8 @@ public class SortedSquares {
         int[] arr = new int[nums.length];
         int k = nums.length - 1;
 
+
+
         while (i <= j) {
             int startAbs = Math.abs(nums[i] * nums[i]);
             int endAbs = Math.abs(nums[j] * nums[j]);

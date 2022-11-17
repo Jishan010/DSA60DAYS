@@ -1,5 +1,7 @@
 package Stack;
 
+import javafx.util.Pair;
+
 import java.util.*;
 
 /**
@@ -13,8 +15,8 @@ import java.util.*;
  * In the array, the next larger element
  * to 1 is 3 , 3 is 4 , 2 is 4 and for 4 ?
  * since it doesn't exist, it is -1.
- *
- *
+ * <p>
+ * <p>
  * for solution explantion https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&ab_channel=AdityaVerma
  */
 public class NextGreaterElementToRight {
@@ -23,7 +25,15 @@ public class NextGreaterElementToRight {
     public static void main(String[] args) {
         long[] exampleArray = {6, 8, 0, 1, 3};
         long[] resultArray = nearestGreaterElement(exampleArray, exampleArray.length);
-        System.out.println(Arrays.toString(resultArray));
+        Pair<Integer, Integer> pair = new Pair<>(10, 1);
+        Stack<Pair<Integer, Integer>> nsrStack = new Stack();
+        nsrStack.push(new Pair<>(10, 1));
+
+        int key = nsrStack.peek().getKey();
+        int value = nsrStack.peek().getValue();
+
+        /*  System.out.println(Arrays.toString(resultArray));*/
+        System.out.println(key + "->" + value);
     }
 
     static long[] nearestGreaterElement(long[] array, int n) {
@@ -35,7 +45,7 @@ public class NextGreaterElementToRight {
             if (stack.empty()) {
                 result[i] = -1L;
             } else if (array[i] < stack.peek()) {
-                result[i]=stack.peek();
+                result[i] = stack.peek();
             } else {
                 while (!stack.isEmpty() && stack.peek() <= array[i]) {
                     stack.pop();
@@ -43,7 +53,7 @@ public class NextGreaterElementToRight {
                 if (stack.isEmpty()) {
                     result[i] = -1L;
                 } else if (array[i] < stack.peek()) {
-                    result[i]=stack.peek();
+                    result[i] = stack.peek();
                 }
             }
             stack.add(array[i]);

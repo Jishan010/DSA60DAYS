@@ -2,9 +2,7 @@ package heap;
 
 import javafx.util.Pair;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.PriorityQueue;
+import java.util.*;
 
 public class FrequentSort {
 

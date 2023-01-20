@@ -12,7 +12,7 @@ public class LinkedList {
         myLinkedList.deleteAtIndex(1);    // now the linked list is 1->3
         myLinkedList.get(1);  */            // return 3
 
-        MyLinkedList myLinkedList = new MyLinkedList();
+        MyDoubleLinkedList myLinkedList = new MyDoubleLinkedList();
         myLinkedList.addAtHead(1);
         myLinkedList.deleteAtIndex(0);
     }

@@ -10,7 +10,8 @@ public class PrintAllSubsequences {
         int[] arr = {1, 2, 1};
         //int[] out = new int[arr.length];
         List<Integer> result = new ArrayList<>();
-        subSequencesForTargetSum(0, result, 0, arr, 2);
+        List<Integer> output = subSequencesForTargetSum(0, result, 0, arr, 2);
+        System.out.println(output);
     }
 
     public static void printSubSequences(int index, int[] outArray, int[] inArr) {
@@ -31,14 +32,14 @@ public class PrintAllSubsequences {
 
     //program to get the subsequence who's some is equal to target sum
     // for ex arr = {1,2,1} , targetSum = 2  Output = {1,1} and {2}
-    public static void subSequencesForTargetSum(int index, List<Integer> arrayList, int sum, int[] arr, int targetSum) {
+    public static List<Integer> subSequencesForTargetSum(int index, List<Integer> arrayList, int sum, int[] arr, int targetSum) {
 
         if (index == arr.length) {
             //limit reached : print the result
             if (sum == targetSum) {
-                System.out.println(arrayList);
+                return arrayList;
             }
-            return;
+            return arrayList;
         }
 
         //take or pick particular index into the subsequence
@@ -49,6 +50,8 @@ public class PrintAllSubsequences {
         arrayList.remove(arrayList.size() - 1);
         //remove or do not pick condition, this element is not added to your subsequent
         subSequencesForTargetSum(index + 1, arrayList, sum, arr, targetSum);
+
+        return arrayList;
     }
 
 }

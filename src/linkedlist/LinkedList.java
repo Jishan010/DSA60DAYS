@@ -1,5 +1,7 @@
 package linkedlist;
 
+import java.util.Queue;
+
 //watch kunal khushwaha channel for linkedList impl
 public class LinkedList {
 

@@ -17,7 +17,6 @@ public class CombinationSum {
 
         //base condition
         if (index == candidates.length) {
-
             if (target == 0) {
                 ans.add(new ArrayList<>(combs));
             }

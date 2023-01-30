@@ -25,9 +25,16 @@ public class BinarySearch {
         int resultIndex1 = searchInsert(array1, 1);
         System.out.println(resultIndex1);
 */
-        int[] array2 = {1, 3, 5, 6};
-        int resultIndex2 = searchInsert(array2, 0);
-        System.out.println(resultIndex2);
+       /* int[] array2 = {1, 3, 5, 6};
+        int resultIndex2 = searchInsert(array2, 3);
+        System.out.println(resultIndex2);*/
+
+        int[] array2 = {1, 3, 5, 6, 8, 22, 34, 50};
+        int start = 0;
+        int end = array2.length - 1;
+        int target = 34;
+        int resultIndex = binarySearch(array2, target, start, end);
+        System.out.println(resultIndex);
 
        /* int[] array3 = {1, 3, 5, 6};
         int resultIndex3 = searchInsert(array3, 5);
@@ -52,6 +59,26 @@ public class BinarySearch {
         }
 
         return start;
+    }
+
+    //with recursiev approach
+    public static int binarySearch(int[] nums, int target, int start, int end) {
+        int result = -1;
+        if (start > end) {
+            return result;
+        }
+        int mid = start + (end - start) / 2;
+
+        if (nums[mid] == target) {
+            return mid;
+        } else if (target > nums[mid]) {
+            start = mid + 1;
+            result = binarySearch(nums, target, start, end);
+        } else if (target < nums[mid]) {
+            end = mid - 1;
+            result = binarySearch(nums, target, start, end);
+        }
+        return result;
     }
 
 }

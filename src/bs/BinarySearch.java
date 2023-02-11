@@ -1,5 +1,10 @@
 package bs;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+
 /**
  * Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
  * <p>
@@ -29,12 +34,23 @@ public class BinarySearch {
         int resultIndex2 = searchInsert(array2, 3);
         System.out.println(resultIndex2);*/
 
-        int[] array2 = {1, 3, 5, 6, 8, 22, 34, 50};
+       /* int[] array2 = {1, 3, 5, 6, 8, 22, 34, 50};
         int start = 0;
         int end = array2.length - 1;
         int target = 34;
         int resultIndex = binarySearch(array2, target, start, end);
+        System.out.println(resultIndex);*/
+
+
+        int[] array2 = {1, 2, 5, 2, 3};
+        int start = 0;
+        int end = array2.length - 1;
+        int target = 3;
+        Arrays.sort(array2);
+        List<Integer> result = new ArrayList<>();
+        List<Integer> resultIndex = binarySearch(array2, target, start, end, result);
         System.out.println(resultIndex);
+
 
        /* int[] array3 = {1, 3, 5, 6};
         int resultIndex3 = searchInsert(array3, 5);
@@ -62,23 +78,22 @@ public class BinarySearch {
     }
 
     //with recursiev approach
-    public static int binarySearch(int[] nums, int target, int start, int end) {
-        int result = -1;
+    public static List<Integer> binarySearch(int[] nums, int target, int start, int end, List<Integer> ans) {
         if (start > end) {
-            return result;
+            return new ArrayList<>();
         }
         int mid = start + (end - start) / 2;
 
         if (nums[mid] == target) {
-            return mid;
+            ans.add(mid);
         } else if (target > nums[mid]) {
             start = mid + 1;
-            result = binarySearch(nums, target, start, end);
+            binarySearch(nums, target, start, end, ans);
         } else if (target < nums[mid]) {
             end = mid - 1;
-            result = binarySearch(nums, target, start, end);
+            binarySearch(nums, target, start, end, ans);
         }
-        return result;
+        return ans;
     }
 
 }

@@ -1,6 +1,8 @@
+/*
 package Stack;
 
-import javafx.util.Pair;
+
+import kotlin.Pair;
 
 import java.util.Stack;
 
@@ -25,11 +27,11 @@ public class MaximumAreaOfHistogram {
 
             if (nsrStack.isEmpty()) {
                 nsr[i] = heights.length;
-            } else if (!nsrStack.isEmpty() && heights[i] > nsrStack.peek().getKey()) {
-                nsr[i] = nsrStack.peek().getValue();
-            } else if (!nsrStack.isEmpty() && heights[i] <= nsrStack.peek().getKey()) {
+            } else if (!nsrStack.isEmpty() && heights[i] > nsrStack.peek().getFirst()) {
+                nsr[i] = nsrStack.peek().getFirst();
+            } else if (!nsrStack.isEmpty() && heights[i] <= nsrStack.peek().getFirst()) {
 
-                while (!nsrStack.isEmpty() && heights[i] <= nsrStack.peek().getKey()) {
+                while (!nsrStack.isEmpty() && heights[i] <= nsrStack.peek().getFirst()) {
                     nsrStack.pop();
                 }
 
@@ -99,3 +101,4 @@ public class MaximumAreaOfHistogram {
 
 
 }
+*/

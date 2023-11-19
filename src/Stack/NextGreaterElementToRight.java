@@ -1,9 +1,11 @@
+/*
 package Stack;
 
 import javafx.util.Pair;
 
 import java.util.*;
 
+*/
 /**
  * problem statement https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1
  * <p>
@@ -18,7 +20,8 @@ import java.util.*;
  * <p>
  * <p>
  * for solution explantion https://www.youtube.com/watch?v=P1bAPZg5uaE&list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd&ab_channel=AdityaVerma
- */
+ *//*
+
 public class NextGreaterElementToRight {
 
 
@@ -32,7 +35,9 @@ public class NextGreaterElementToRight {
         int key = nsrStack.peek().getKey();
         int value = nsrStack.peek().getValue();
 
-        /*  System.out.println(Arrays.toString(resultArray));*/
+        */
+/*  System.out.println(Arrays.toString(resultArray));*//*
+
         System.out.println(key + "->" + value);
     }
 
@@ -62,3 +67,4 @@ public class NextGreaterElementToRight {
     }
 
 }
+*/

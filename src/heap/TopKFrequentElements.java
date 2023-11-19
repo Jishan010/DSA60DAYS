@@ -1,6 +1,7 @@
 package heap;
 
-import javafx.util.Pair;
+
+import kotlin.Pair;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -23,9 +24,9 @@ public class TopKFrequentElements {
         PriorityQueue<Pair<Integer, Integer>> pq =
                 new PriorityQueue<Pair<Integer, Integer>>(
                         (a, b) -> {
-                            if (a.getValue() < b.getValue())
+                            if (a.getFirst() < b.getSecond())
                                 return -1;
-                            if (a.getValue() > b.getValue())
+                            if (a.getFirst() > b.getSecond())
                                 return 1;
                             return 0;
                         });
@@ -51,7 +52,7 @@ public class TopKFrequentElements {
 
         int i = 0;
         while (i < k) {
-            arr[i++] = pq.poll().getKey();
+            arr[i++] = pq.poll().getFirst();
         }
 
         return arr;

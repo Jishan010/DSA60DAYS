@@ -5,78 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a51ca50-8db7-49f3-811e-9a12f3340908" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/Element.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/Element.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/FilterCommonElementBetweenTwoArrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/FilterCommonElementBetweenTwoArrayKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/Stack/NextGreaterElementToLeft.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/Stack/NextGreaterElementToLeft.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/Stack/NextGreaterElementToRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/Stack/NextSmallerElementRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/Stack/NextSmallerElementRight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/AddBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/AddBinary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ArraySwap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ArraySwap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/CheckIFPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/CheckIFPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/CheckIfPalindromNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/CheckIfPalindromNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/CheckIfPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/CheckIfPrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/CheckStrictlyIncreasing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/CheckStrictlyIncreasing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ChocolateDistributionProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ChocolateDistributionProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/FascinatingNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/FascinatingNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/FindAllDuplicatesFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/FindAllDuplicatesFromArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/FindLastRemainingValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/FindLastRemainingValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/Imp/DecomposeRunLengthEncodedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/Imp/DecomposeRunLengthEncodedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/Imp/TrappingRainWater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/Imp/TrappingRainWater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/JwelsAndStones.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/JwelsAndStones.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/KadensAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/KadensAlgorithm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/KthLargestInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/KthLargestInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MaxFrequencyInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MaxFrequencyInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MaxNumberOfWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MaxNumberOfWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MaximumWealth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MaximumWealth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MinAbsoluteDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MinAbsoluteDifference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MinMaxFromArray$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MinMaxFromArray$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MinMaxFromArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MinMaxFromArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MiniMumAbsoluteDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MiniMumAbsoluteDifference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MostFequentEvenNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MostFequentEvenNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MoveZeroes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/MoveZeroes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/NextGreaterElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/NextGreaterElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PatterQuestions.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PatterQuestions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PerfectArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PerfectArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PlusOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PlusOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PrefixSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PrefixSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PrintFibonacciValue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PrintFibonacciValue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PrintValueFromIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/PrintValueFromIndex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseCharArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseCharArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseIfWovels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseIfWovels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseTheArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseTheArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseVowelsOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ReverseVowelsOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/RunningSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/RunningSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ShuffleArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ShuffleArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ThreeConsecutiveOdds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/ThreeConsecutiveOdds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/TotalSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/TotalSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/TransposeMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/TransposeMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/TwoSumUniquePairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/TwoSumUniquePairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/XOR/SingleNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/XOR/SingleNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/removeTwoGreatestElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/removeTwoGreatestElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/sliding_window/CountGoodSubstrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/sliding_window/CountGoodSubstrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/sliding_window/MaxAverageSubArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/sliding_window/MaxAverageSubArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/totalSumOfSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/totalSumOfSeries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/two_pointers/MergeSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/two_pointers/MergeSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/two_pointers/RemoveElement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/two_pointers/RemoveElement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/array/two_pointers/ThreeSumUniqueTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/array/two_pointers/ThreeSumUniqueTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/CeilingOfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/CeilingOfNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/GreatestElementSmallerThanTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/GreatestElementSmallerThanTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/SmallerElementGreaterThanTheTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/SmallerElementGreaterThanTheTarget.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/SqureRoot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/bs/SqureRoot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/mathsfordsa/bitwiseoperators/FindUnique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/mathsfordsa/bitwiseoperators/FindUnique.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/mathsfordsa/bitwiseoperators/IsEvenOddNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/mathsfordsa/bitwiseoperators/IsEvenOddNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/PrintNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/PrintNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/twopointers/MergeTwoSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/twopointers/MergeTwoSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/twopointers/ThreeSumClosest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/twopointers/ThreeSumClosest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/MaximumAreaOfHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/MaximumAreaOfHistogram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/NextGreaterElementToRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/NextGreaterElementToRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heap/FrequentSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap/FrequentSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/heap/TopKFrequentElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap/TopKFrequentElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/PlusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/XOR/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/XOR/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -96,9 +29,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2YNl9BEB3PzUnZS7MrlUUbaJtCj" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -107,21 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/jmohiuddinansari/DSA60DAYS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/jmohiuddinansari/DSA60DAYS&quot;
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.XOR.Pattern" />
+}</component>
+  <component name="RunManager" selected="Kotlin.MaxFrequencyKt">
+    <configuration name="CheckIfPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.CheckIfPrime" />
       <module name="DSA60DAYS" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.XOR.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,9 +62,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PlusOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.PlusOne" />
+      <module name="DSA60DAYS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnHashmapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.hashmap.LearnHashmapKt" />
+      <module name="DSA60DAYS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxFrequencyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.hashmap.MaxFrequencyKt" />
+      <module name="DSA60DAYS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayInKitlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.TestArrayInKitlinKt" />
+      <module name="DSA60DAYS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pattern" />
+        <item itemvalue="Kotlin.MaxFrequencyKt" />
+        <item itemvalue="Kotlin.LearnHashmapKt" />
+        <item itemvalue="Kotlin.TestArrayInKitlinKt" />
+        <item itemvalue="Application.PlusOne" />
+        <item itemvalue="Application.CheckIfPrime" />
       </list>
     </recent_temporary>
   </component>
@@ -145,5 +116,86 @@
       <updated>1700373764061</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/XOR/Pattern.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/XOR/Pattern.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/XOR/Pattern.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/XOR/Pattern.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/XOR/Pattern.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/XOR/Pattern.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/PlusOne.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/PlusOne.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/PlusOne.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/PlusOne.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/PlusOne.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/PlusOne.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/array/hashmap/MaxFrequency.kt</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/array/hashmap/MaxFrequency.kt</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/array/hashmap/MaxFrequency.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

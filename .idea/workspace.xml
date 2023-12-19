@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6a51ca50-8db7-49f3-811e-9a12f3340908" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/ReverseNumberKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/ReverseNumberKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/ReverseNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/ReverseNumber.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/jmohiuddinansari/DSA60DAYS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ReverseNumberKt">
+  <component name="RunManager" selected="Kotlin.NumberOfStepsKt">
     <configuration name="Fibbonnacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.Fibbonnacci" />
       <module name="DSA60DAYS" />
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstUniqueCharInStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.FirstUniqueCharInStringKt" />
+    <configuration name="NumberOfStepsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.NumberOfStepsKt" />
       <module name="DSA60DAYS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NumberOfStepsKt" />
         <item itemvalue="Kotlin.ReverseNumberKt" />
         <item itemvalue="Kotlin.PracticeKt" />
         <item itemvalue="Kotlin.FibbonacciNumberKt" />
         <item itemvalue="Application.Fibbonnacci" />
-        <item itemvalue="Kotlin.FirstUniqueCharInStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -292,6 +293,16 @@
           <url>file://$PROJECT_DIR$/src/recursion/Practice.kt</url>
           <line>4</line>
           <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursion/ReverseNumber.kt</url>
+          <line>4</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/recursion/ReverseNumber.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/recursion/Practice.kt</url>

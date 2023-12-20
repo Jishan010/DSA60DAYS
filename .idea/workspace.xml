@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6a51ca50-8db7-49f3-811e-9a12f3340908" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/NumberOfStepsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/NumberOfStepsKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/NumberOfSteps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/NumberOfSteps.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -48,7 +47,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/jmohiuddinansari/DSA60DAYS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ValidParenthesisKotlinKt">
+  <component name="RunManager" selected="Kotlin.ReverseStackKt">
     <configuration name="NumberOfStepsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.NumberOfStepsKt" />
       <module name="DSA60DAYS" />
@@ -56,15 +55,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PracticeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.PracticeKt" />
+    <configuration name="ReverseNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion.ReverseNumberKt" />
       <module name="DSA60DAYS" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.ReverseNumberKt" />
+    <configuration name="ReverseStackKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.ReverseStackKt" />
       <module name="DSA60DAYS" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ReverseStackKt" />
         <item itemvalue="Kotlin.ValidParenthesisKotlinKt" />
         <item itemvalue="Kotlin.StackImplInKotlinKt" />
         <item itemvalue="Kotlin.NumberOfStepsKt" />
         <item itemvalue="Kotlin.ReverseNumberKt" />
-        <item itemvalue="Kotlin.PracticeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -332,6 +331,21 @@
           <url>file://$PROJECT_DIR$/src/Stack/ValidParenthesisKotlin.kt</url>
           <line>20</line>
           <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/ReverseStack.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/ReverseStack.kt</url>
+          <line>15</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/ReverseStack.kt</url>
+          <line>23</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/recursion/Practice.kt</url>

@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6a51ca50-8db7-49f3-811e-9a12f3340908" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/ReverseNumberKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/ReverseNumberKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursion/ReverseNumber.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/ReverseNumber.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/NumberOfStepsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/recursion/NumberOfStepsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursion/NumberOfSteps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/recursion/NumberOfSteps.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,27 +48,7 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/jmohiuddinansari/DSA60DAYS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NumberOfStepsKt">
-    <configuration name="Fibbonnacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.Fibbonnacci" />
-      <module name="DSA60DAYS" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FibbonacciNumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.FibbonacciNumberKt" />
-      <module name="DSA60DAYS" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.ValidParenthesisKotlinKt">
     <configuration name="NumberOfStepsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="recursion.NumberOfStepsKt" />
       <module name="DSA60DAYS" />
@@ -90,13 +70,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StackImplInKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.StackImplInKotlinKt" />
+      <module name="DSA60DAYS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ValidParenthesisKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack.ValidParenthesisKotlinKt" />
+      <module name="DSA60DAYS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ValidParenthesisKotlinKt" />
+        <item itemvalue="Kotlin.StackImplInKotlinKt" />
         <item itemvalue="Kotlin.NumberOfStepsKt" />
         <item itemvalue="Kotlin.ReverseNumberKt" />
         <item itemvalue="Kotlin.PracticeKt" />
-        <item itemvalue="Kotlin.FibbonacciNumberKt" />
-        <item itemvalue="Application.Fibbonnacci" />
       </list>
     </recent_temporary>
   </component>
@@ -304,6 +298,41 @@
           <line>20</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/StackImplInKotlin.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/StackImplInKotlin.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/StackImplInKotlin.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/StackImplInKotlin.kt</url>
+          <line>39</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/StackImplInKotlin.kt</url>
+          <line>27</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/StackImplInKotlin.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/Stack/ValidParenthesisKotlin.kt</url>
+          <line>20</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/recursion/Practice.kt</url>
           <line>2</line>
@@ -312,6 +341,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/Stack/ValidParenthesisKotlin.kt</url>
+          <line>4</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="62" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

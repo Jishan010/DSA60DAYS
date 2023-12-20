@@ -1,7 +1,7 @@
 package recursion
 
 fun main() {
-    println(numberOfSteps(8))
+    println(numberOfSteps(41))
 }
 
 fun numberOfSteps(num: Int): Int {

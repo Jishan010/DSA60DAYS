@@ -32,7 +32,7 @@ public class NextSmallerElementRight {
                     result[i] = stack.peek();
                 }
             }
-            stack.add(array[i]);
+            stack.push(array[i]);
         }
         return result;
     }

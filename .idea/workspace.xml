@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a51ca50-8db7-49f3-811e-9a12f3340908" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/Stack/NextGreaterElementTorRIghtKotlinKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/Stack/NextGreaterElementTorRIghtKotlinKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/Stack/NextSmallerElementRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/Stack/NextSmallerElementRight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/NextGreaterElementTorRIghtKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/NextGreaterElementTorRIghtKotlin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack/NextSmallerElementRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack/NextSmallerElementRight.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

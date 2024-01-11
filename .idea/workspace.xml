@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6a51ca50-8db7-49f3-811e-9a12f3340908" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/linkedlist/LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/LinkedListKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/LinkedListKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/FindDuplicates.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindDuplicates.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -395,6 +392,21 @@
           <line>71</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/array/FindDuplicates.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/array/FindDuplicates.kt</url>
+          <line>16</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/array/FindDuplicates.kt</url>
+          <line>29</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/recursion/Practice.kt</url>
           <line>2</line>
@@ -412,6 +424,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/array/FindDuplicates.kt</url>
+          <line>2</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="90" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.EmptyStackException" package="java.util" />

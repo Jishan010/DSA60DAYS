@@ -1,7 +1,6 @@
 package array
 
-fun main() {
-    /*  val arr1 = intArrayOf(2, 3, 5, 6)
+fun main() {/*  val arr1 = intArrayOf(2, 3, 5, 6)
       val arr2 = intArrayOf(1, 4, 2, 8)
 
       println(findDifference(arr1, arr2))*/
@@ -25,8 +24,7 @@ fun findDifference(nums1: IntArray, nums2: IntArray): List<List<Int>> {
 
 fun isAnagram(s1: String, s2: String): Boolean {
 
-    if (s1.length != s2.length)
-        return false
+    if (s1.length != s2.length) return false
 
     val hashMap = mutableMapOf<Char, Int>()
     for (char in s1.toCharArray()) {
@@ -35,10 +33,10 @@ fun isAnagram(s1: String, s2: String): Boolean {
 
     for (char in s2.toCharArray()) {
         if (hashMap.containsKey(char)) {
-            val elemt = hashMap.get(char)
+            val elemt = hashMap[char]
             if (elemt != null) {
                 if (elemt > 1) {
-                    hashMap[char] = hashMap.get(char)!! - 1
+                    hashMap[char] = hashMap[char]!! - 1
                 } else {
                     hashMap.remove(char)
                 }

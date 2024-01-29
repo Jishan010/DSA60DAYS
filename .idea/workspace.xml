@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6a51ca50-8db7-49f3-811e-9a12f3340908" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/META-INF/DSA60DAYS.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/sorting/SelectionSortKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/sorting/SelectionSortKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sorting/SelectionSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/SelectionSort.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA60DAYS/sorting/BubbleSortKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA60DAYS/sorting/BubbleSortKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sorting/BubbleSort.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/sorting/BubbleSort.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -438,6 +437,16 @@
           <url>file://$PROJECT_DIR$/src/sorting/InsertionSort.kt</url>
           <line>11</line>
           <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/sorting/BubbleSort.kt</url>
+          <line>10</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/sorting/BubbleSort.kt</url>
+          <line>22</line>
+          <option name="timeStamp" value="102" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="kotlin-function">
           <url>file://$PROJECT_DIR$/src/recursion/Practice.kt</url>
